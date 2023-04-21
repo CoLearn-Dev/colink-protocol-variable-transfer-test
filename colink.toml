@@ -1,0 +1,10 @@
+[package]
+name = "vt_test"
+version = "0.1.0"
+keywords = ["vt_test"]
+description = "vt_test"
+entrypoint = "cargo run"
+
+[vt_test]
+name = "vt_test"
+description = "vt_test"
